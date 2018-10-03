@@ -11,4 +11,4 @@ const reverseSentence = (string) => {
     return R.join(' ',  R.map(reverseWords, R.split(' ', string)));
 }
 
-console.log(reverseSentence("this is testtest"));
+reverseSentence("this is testtest");
