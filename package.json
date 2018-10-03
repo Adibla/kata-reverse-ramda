@@ -1,0 +1,14 @@
+{
+  "name": "kata-reverse-ramda",
+  "version": "1.0.0",
+  "description": "Simple kata resolution with Ramda JS. Reverse words in a sentence longer than 5 letters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
